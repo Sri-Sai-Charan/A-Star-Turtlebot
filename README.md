@@ -14,11 +14,6 @@ Steps to run:
  ┃ ┗ 📜map.world
  ┣ 📂scripts
  ┃ ┣ 📂__pycache__
- ┃ ┃ ┣ 📜AStar.cpython-38.pyc
- ┃ ┃ ┣ 📜Config.cpython-38.pyc
- ┃ ┃ ┣ 📜RRTStarFN.cpython-38.pyc
- ┃ ┃ ┣ 📜bidirectionalRRTStarFND.cpython-38.pyc
- ┃ ┃ ┗ 📜utils.cpython-38.pyc
  ┃ ┣ 📜AStar.py
  ┃ ┣ 📜Config.py
  ┃ ┣ 📜RRTStarFN.py
