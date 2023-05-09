@@ -1,4 +1,9 @@
-Steps to run:
+# A-Star-Turtlebot
+
+# Overview
+
+The TurtleBot kit consists of a mobile base, 2D/3D distance sensor, laptop computer or SBC(Single Board Computer), and the TurtleBot mounting hardware kit. 
+# Usage
 
 1. Place Part2 inside catkin_ws/src
 2. catkin_make from root
