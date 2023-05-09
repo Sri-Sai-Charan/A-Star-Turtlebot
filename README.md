@@ -11,7 +11,7 @@ The TurtleBot kit consists of a mobile base, 2D/3D distance sensor, laptop compu
 3. source devel/setup.bash
 4. execute 
 ```
-`roslaunch astar_turtlebot3 demo.launch x_pos:=-4 y_pos:=-4 theta:=0 x_pos_f:=4 y_pos_f:=4 clearance:=2 rpm1:=60 rpm2:=55`
+roslaunch astar_turtlebot3 demo.launch x_pos:=-4 y_pos:=-4 theta:=0 x_pos_f:=4 y_pos_f:=4 clearance:=2 rpm1:=60 rpm2:=55
 ```
 ## Results
 
