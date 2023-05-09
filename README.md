@@ -15,6 +15,8 @@ roslaunch astar_turtlebot3 demo.launch x_pos:=-4 y_pos:=-4 theta:=0 x_pos_f:=4 y
 ```
 ## Results
 
+![output](https://github.com/niteshjha08/AStar-Turtlebot/blob/master/output/output2D.gif)
+
 ## Folder Structure 
 ```
 📦A-Star-Turtlebot
